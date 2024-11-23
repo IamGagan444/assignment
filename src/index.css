@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .border-border {
+    border-color: currentColor; /* Or any specific color */
+  }
+}
